@@ -1,0 +1,9 @@
+# folders anywhere
+**/.venv
+**/__pycache__
+**/LightGBM
+**/output
+
+# files anywhere
+**/poetry.lock
+**/*.log
